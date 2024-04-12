@@ -28,5 +28,9 @@
 
 # Executables
 *.exe
+*.e
 *.out
 *.app
+
+# MacOS
+.DS_Store
