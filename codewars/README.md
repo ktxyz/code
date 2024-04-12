@@ -103,3 +103,18 @@ Else.
 [2 squares case](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem)
 [3 squares case](https://en.wikipedia.org/wiki/Legendre%27s_three-square_theorem)
 [4 squares case](https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem)
+
+### Range Extraction
+[Kata Link](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/cpp)
+
+#### Difficulty
+Kata 4 - should be Kata 5 100%
+
+#### Languages
+* C++
+
+#### Solution
+It's very basic implementation
+
+#### Resources
+Nothing.
