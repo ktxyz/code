@@ -59,3 +59,18 @@ But It seems its not possible (or at least neither I nor anyone from solutions c
 [Partitions on wikipedia](https://en.wikipedia.org/wiki/Integer_partition)
 
 [Math stackexchange post about largest product](https://math.stackexchange.com/questions/1760268/partitions-of-a-number-with-greatest-product)
+
+### Square into trees. Protect trees!
+[Kata Link](https://www.codewars.com/kata/54eb33e5bc1a25440d000891/cpp)
+
+#### Difficulty
+Kata 4 - In my opinion should be Kata 5.
+
+#### Languages
+* C++
+
+#### Solution
+Just bruteforce solution.
+
+#### Resources
+None
