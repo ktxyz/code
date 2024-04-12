@@ -133,3 +133,20 @@ It's very basic implementation. And also boring.
 
 #### Resources
 Nothing.
+
+### Twice Linear
+[Kata Link](https://www.codewars.com/kata/5672682212c8ecf83e000050/cpp)
+
+#### Difficulty
+Kata 4 
+
+#### Languages
+* C++
+
+#### Solution
+This is pretty nice task. My solution is memoization + doing some buffering to make sure that we have the smallest n values at least. I think using single priority_queue/set would be better so we don't have to do over-computing. 
+
+But nicest solution I think about is doing 2 function-pointers, one $2x + 1$, other $3x + 1$ and filling the array using the lowest value (you just remember which pointer should be used now). This would be trully linear.
+
+#### Resources
+Nothing.
