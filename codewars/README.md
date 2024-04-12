@@ -148,3 +148,22 @@ This is pretty nice task. My solution is memoization + doing some buffering to m
 
 #### Resources
 Nothing.
+
+### Factorial Trail
+[Kata Link](https://www.codewars.com/kata/55c4eb777e07c13528000021)
+
+#### Difficulty
+Kata 4 
+
+#### Languages
+* C++
+
+#### Solution
+This is also a pretty nice task. 
+
+So, the solution for the base 10 is pretty well know. For a 0 at the end, the number has to be divisible by 10. And for that to be true, it has to be divisible by 2 and 5. In any factorial we can clearly see that number of 5 divisors is going to be less than of 2. And as such we just have the count of 5 factors. We can do that by dividing the number by consecutive powers of 5.
+
+Now with different base, we generalize that requirement so for every 0 at the end, the factorial has to be divisible by base. I'm not sure if it's possible to figure out generally which power is least likely without checking each out - but that doesn't matter since base is small and we can just do that. One thing to keep track of is that powers in base decomposition can have higher powers than 1. For them we have to divide the number calculate by standard method by that power - for base 49 we need number of $7^2$ not just 7.
+
+#### Resources
+Nothing.
