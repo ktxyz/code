@@ -118,3 +118,18 @@ It's very basic implementation
 
 #### Resources
 Nothing.
+
+### Roman Numerals Helper
+[Kata Link](https://www.codewars.com/kata/51b66044bce5799a7f000003/cpp)
+
+#### Difficulty
+Kata 4 - should be Kata 5 100%
+
+#### Languages
+* C++
+
+#### Solution
+It's very basic implementation. And also boring.
+
+#### Resources
+Nothing.
