@@ -74,3 +74,32 @@ Just bruteforce solution.
 
 #### Resources
 None
+
+### Sum of Perfect Squares
+[Kata Link](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084/cpp)
+
+#### Difficulty
+Kata 4 
+
+#### Languages
+* C++
+
+#### Solution
+Nice, simple (with access to internet at least) problem. There are only 4 possible solutions since all numbers can be expressed as sum of 4 squares.
+
+##### Case 1
+We just have to check if number is a perfect square.
+
+##### Case 2
+To be representable as sum of 2 squares, number can't have any prime factor that is congruent to $3 \mod 4$ with an odd factor.
+
+##### Case 3
+Almost every number can be represented with 3 squares. Only numbers in form $4^a(8b + 7)$ can't.
+
+##### Case 4
+Else.
+
+#### Resources
+[2 squares case](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem)
+[3 squares case](https://en.wikipedia.org/wiki/Legendre%27s_three-square_theorem)
+[4 squares case](https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem)
