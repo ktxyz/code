@@ -4,6 +4,7 @@
 Currently my favourite site, that has problems that are a bit more technical / real-worldly than others.
 
 # Solutions
+## Kata 4
 ### Mystery Function
 [Kata Link](https://www.codewars.com/kata/56b2abae51646a143400001d)
 
