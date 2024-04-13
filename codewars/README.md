@@ -167,3 +167,18 @@ Now with different base, we generalize that requirement so for every 0 at the en
 
 #### Resources
 Nothing.
+
+### Next bigger number with the same digits
+[Kata Link](https://www.codewars.com/kata/55983863da40caa2c900004e/cpp)
+
+#### Difficulty
+Kata 4 
+
+#### Languages
+* C++
+
+#### Solution
+Pretty standard task. We have to observe that we want to swap first digit we can with previous larger one. Once we find that, we can sort digits tailing the swapped one.
+
+#### Resources
+Nothing.
