@@ -256,3 +256,18 @@ It's very basic implementation. And also boring.
 
 #### Resources
 Nothing.
+
+### Shortest Knight Path
+[Kata Link](https://www.codewars.com/kata/549ee8b47111a81214000941/solutions/cpp)
+
+#### Difficulty
+Kata 4 - should be Kata 5, or maybe even 6 
+
+#### Languages
+* C++
+
+#### Solution
+It's very basic implementation. And also boring.
+
+#### Resources
+Nothing.
