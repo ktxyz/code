@@ -212,3 +212,31 @@ Simple implementation
 
 #### Resources
 Nothing.
+
+### Rectangle Rotation
+[Kata Link](https://www.codewars.com/kata/5886e082a836a691340000c3)
+
+#### Difficulty
+Kata 4
+
+#### Languages
+* C++
+
+#### Solution
+Very nice problem.
+
+Solution for this is quite simple, but implementation is pretty satisfying.
+
+I'm sure there is some nicer solution, with better maths. But I'm not that good with it, especially geometry so I went the brute way.
+
+My idea is pretty simple. Since the total height of the rectangle wont be larger than $2*10^4$ we can find number of points for every y inside the rectangle.
+
+How do we do that? At first I thought about doing a binary search for the left side and binary search for the right side to find outmost points by using cross product to tell if it's left/right of an edge. Then I cursed myself for being stupid. We don't need to do that at all since the edges are linear, we can do linear interpolation of y to find the x.
+
+To get total answer we simply iterate over all y (I did it in 3 parts, since edges where we check change, but my code is pretty bad) and sum all the ranges.
+
+##### Sidenote
+While looking around for some math, I found out you can solve this for any polygon with lattice points. It looks cool.
+
+#### Resources
+[How to solve this for polygons with lattice points](https://iq.opengenus.org/number-of-integral-points-inside-rectangle/)
