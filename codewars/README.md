@@ -241,3 +241,18 @@ While looking around for some math, I found out you can solve this for any polyg
 
 #### Resources
 [How to solve this for polygons with lattice points](https://iq.opengenus.org/number-of-integral-points-inside-rectangle/)
+
+### Connect Four
+[Kata Link](https://www.codewars.com/kata/56882731514ec3ec3d000009/python)
+
+#### Difficulty
+Kata 4 - could be Kata 5 
+
+#### Languages
+* Python
+
+#### Solution
+It's very basic implementation. And also boring.
+
+#### Resources
+Nothing.
