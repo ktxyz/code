@@ -182,3 +182,18 @@ Pretty standard task. We have to observe that we want to swap first digit we can
 
 #### Resources
 Nothing.
+
+### Snail
+[Kata Link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/cpp)
+
+#### Difficulty
+Kata 4 - should be 5
+
+#### Languages
+* C++
+
+#### Solution
+Simple implementation
+
+#### Resources
+Nothing.
