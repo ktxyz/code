@@ -197,3 +197,18 @@ Simple implementation
 
 #### Resources
 Nothing.
+
+### Sum of Intervals
+[Kata Link](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/cpp)
+
+#### Difficulty
+Kata 4 - should be 5 probably
+
+#### Languages
+* C++
+
+#### Solution
+Simple implementation
+
+#### Resources
+Nothing.
