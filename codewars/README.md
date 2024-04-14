@@ -301,3 +301,18 @@ It's very basic implementation as long as you know your recursion.
 
 #### Resources
 Nope.
+
+### Human Readable Format
+[Kata Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/cpp)
+
+#### Difficulty
+Kata 4 - should Kata 5 or 6
+
+#### Languages
+* C++
+
+#### Solution
+It's very, very basic implementation and very boring.
+
+#### Resources
+Nope.
