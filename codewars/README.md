@@ -331,3 +331,19 @@ Simple task. Description could be better.
 
 #### Resources
 Nope.
+
+### Magnet particules in boxes
+[Kata Link](https://www.codewars.com/kata/56c04261c3fcf33f2d000534/python)
+
+#### Difficulty
+Kata 4 - could be Kata 5
+
+#### Languages
+* Python
+
+#### Solution
+Simple task. Margin of error tells you when you can stop calculations to not timeout.
+
+#### Resources
+Nope.
+
