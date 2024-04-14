@@ -306,13 +306,28 @@ Nope.
 [Kata Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/cpp)
 
 #### Difficulty
-Kata 4 - should Kata 5 or 6
+Kata 4 - should be Kata 5 or 6
 
 #### Languages
 * C++
 
 #### Solution
 It's very, very basic implementation and very boring.
+
+#### Resources
+Nope.
+
+### Sum by Factors
+[Kata Link](https://www.codewars.com/kata/54d496788776e49e6b00052f/python)
+
+#### Difficulty
+Kata 4 - could be Kata 5
+
+#### Languages
+* Python
+
+#### Solution
+Simple task. Description could be better.
 
 #### Resources
 Nope.
