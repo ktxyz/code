@@ -286,3 +286,18 @@ It's very basic implementation as long as you know your GCD.
 
 #### Resources
 [gcd on wikipedia](https://en.wikipedia.org/wiki/Greatest_common_divisor#)
+
+### How Many Numbers III
+[Kata Link](https://www.codewars.com/kata/5877e7d568909e5ff90017e6/cpp)
+
+#### Difficulty
+Kata 4 - could be Kata 5 maybe
+
+#### Languages
+* C++
+
+#### Solution
+It's very basic implementation as long as you know your recursion.
+
+#### Resources
+Nope.
