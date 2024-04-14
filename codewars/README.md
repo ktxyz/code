@@ -347,3 +347,17 @@ Simple task. Margin of error tells you when you can stop calculations to not tim
 #### Resources
 Nope.
 
+### Number of Proper Fractions with Denominator d
+[Kata Link](https://www.codewars.com/kata/55b7bb74a0256d4467000070/python)
+
+#### Difficulty
+Kata 4 - could be Kata 5
+
+#### Languages
+* Python
+
+#### Solution
+Simple task if you know about $\varphi$ function.
+
+#### Resources
+[totient on wikipedia](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
