@@ -271,3 +271,18 @@ It's very basic implementation. And also boring.
 
 #### Resources
 Nothing.
+
+### Smallest Possible Sum
+[Kata Link](https://www.codewars.com/kata/52f677797c461daaf7000740/cpp)
+
+#### Difficulty
+Kata 4 - could be Kata 5 maybe
+
+#### Languages
+* C++
+
+#### Solution
+It's very basic implementation as long as you know your GCD.
+
+#### Resources
+[gcd on wikipedia](https://en.wikipedia.org/wiki/Greatest_common_divisor#)
